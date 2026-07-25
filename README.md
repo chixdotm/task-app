@@ -1,4 +1,4 @@
-# Devtiro Task App Build
+# Task App Build
 
 This repo contains the project as-built in the Devtiro Task App build video.
 
