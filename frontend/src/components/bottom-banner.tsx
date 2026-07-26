@@ -8,8 +8,8 @@ interface BottomBannerProps {
 }
 
 const BottomBanner: React.FC<BottomBannerProps> = ({
-  text = "Made with 🩵 by Aaron at Devtiro",
-  link = "https://www.youtube.com/@devtiro",
+  text = "Made",
+  link = "https://www.youtube.com",
 }) => {
   return (
     <div
